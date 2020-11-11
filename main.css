@@ -89,6 +89,9 @@ body{
     background: #55ACEE;
     color: white;
   }
+  .fa-amazon {
+      background: orange;
+  }
 
   .input{
       width: 100%;
